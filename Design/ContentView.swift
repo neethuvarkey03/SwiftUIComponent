@@ -15,7 +15,7 @@ struct ContentView: View {
             })
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(Color.secondary)
+        .background(Color.red)
     }
 
 }
